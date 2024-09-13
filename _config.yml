@@ -24,8 +24,8 @@ author:
   avatar           : "HCpersona.JPG"
   name             : "Hao Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning and Mathematical Optimization"
-  location         : # "Earth"
+  bio              : "Machine Learning and Optimization"
+  location         : "IN, USA"
   employer         : "Purdue University"
   uri              : # URL
   email            : "chen4433@purdue.edu" 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/hao-chen-369a43197"
+  linkedin         : "hao-chen-369a43197"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
