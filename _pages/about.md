@@ -9,14 +9,14 @@ redirect_from:
 
 I am a 3rd-year Ph.D. student at Purdue University in the Davidson School of Chemical Engineering ([Li Group](https://canli1.github.io)).
 
-I received my M.Phil. from the Department of Chemical Engineering and Biotechnology at University of Cambridge (2021), and B.Eng. from the Department of Chemical and Environmental Engineering at University of Nottingham (2020). 
+<!-- I received my M.Phil. from the Department of Chemical Engineering and Biotechnology at University of Cambridge (2021), and B.Eng. from the Department of Chemical and Environmental Engineering at University of Nottingham (2020). 
 
 **I am actively seeking opportunities for internships and research collaborations.** If you are looking for a passionate and productive intern or collaborator, please don't hesitate to reach out.
 
 # Research interests
-My research interests are broadly in the interface between machine learning and optimization. Recent works focus on how to extend neural network towards optimization problem and how to explain optimization models using LLM. 
+My research interests are broadly in the interface between machine learning and optimization. Recent works focus on how to extend neural network towards optimization problem and how to explain optimization models using LLM.  -->
 
-<!-- Getting started
+Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -43,8 +43,4 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png) -->
-
-<!-- For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+![Editing a markdown file for a talk](/images/editing-talk.png)
