@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Hao Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Hao Chen"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "geraltshen/Gin-Hao-Chen.github.io"
 author:
   # Biographic information
   avatar           : "HCpersona.JPG"
-  name             : "Hao Chen"
+  name             : "Hao Chen (谌昊)"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning and Optimization"
+  bio              : "Machine Learning & Optimization"
   location         : "IN, USA"
   employer         : "Purdue University"
   uri              : # URL
