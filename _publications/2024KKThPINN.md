@@ -9,5 +9,5 @@ venue: 'Computers & Chemical Engineering'
 #paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-citation: 'Chen, H., Constante-Flores, G., Li, C. Physics-informed neural networks with hard linear equality constraints.Computers & Chemical Engineering 189,108764. (2024).'
+citation: 'Chen, H., Constante-Flores, G., Li, C. Physics-informed neural networks with hard linear equality constraints. Computers & Chemical Engineering 189, 108764. (2024).'
 ---
