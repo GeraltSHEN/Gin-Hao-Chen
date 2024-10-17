@@ -21,7 +21,7 @@ repository               : "geraltshen/Gin-Hao-Chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "HCpersona.JPG"
+  avatar           : "HCphoto.JPG"
   name             : "Hao Chen (谌昊)"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning & Optimization"
