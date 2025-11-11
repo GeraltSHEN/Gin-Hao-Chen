@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student at Purdue University in the Davidson School of Chemical Engineering ([Li Group](https://canli1.github.io)).
+I am a 4th-year Ph.D. student at Purdue University in the Davidson School of Chemical Engineering ([Li Group](https://canli1.github.io)).
 
 I received my M.Phil. from the Department of Chemical Engineering and Biotechnology at University of Cambridge (2021), and B.Eng. from the Department of Chemical and Environmental Engineering at University of Nottingham (2020). 
 
