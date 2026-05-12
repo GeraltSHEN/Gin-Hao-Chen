@@ -25,8 +25,8 @@ author:
   name             : "Hao Chen (谌昊)"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning & Optimization"
-  location         : "IN, USA"
-  employer         : "Purdue University"
+  # location         : "IN, USA"
+  # employer         : "Purdue University"
   uri              : # URL
   email            : "chen4433@purdue.edu" 
 

@@ -51,12 +51,12 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    padding-bottom: 0;
+    border-bottom: 0;
   }
 
   p, li, dl {
-    font-size: 0.875em;
+    font-size: 1em;
     text-align: justify;
   }
 

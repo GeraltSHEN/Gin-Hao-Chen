@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hao Chen is a fourth-year Ph.D. student at Purdue University in the Davidson School of Chemical Engineering ([Li Group](https://canli1.github.io)).
+I am a fourth-year Ph.D. student at Purdue University in the Davidson School of Chemical Engineering ([Li Group](https://canli1.github.io)).
 
 I received M.Phil. from the Department of Chemical Engineering and Biotechnology at University of Cambridge (2021), and B.Eng. from the Department of Chemical and Environmental Engineering at University of Nottingham (2020). 
 
 **I am actively seeking opportunities for internships and research collaborations**.
 
-# Research interests
+<!-- # Research interests -->
 My research interests lie broadly at the interface between machine learning and optimization, with a focus on accelerating hard decision-making problems, improving explainability of optimization models, and preserving feasibility in deep learning models. Current work follows three connected directions.
 
 ## Learning to Optimize
