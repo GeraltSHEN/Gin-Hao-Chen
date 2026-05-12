@@ -7,15 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Ph.D. student at Purdue University in the Davidson School of Chemical Engineering ([Li Group](https://canli1.github.io)).
+Hao Chen is a fourth-year Ph.D. student at Purdue University in the Davidson School of Chemical Engineering ([Li Group](https://canli1.github.io)).
 
-I received my M.Phil. from the Department of Chemical Engineering and Biotechnology at University of Cambridge (2021), and B.Eng. from the Department of Chemical and Environmental Engineering at University of Nottingham (2020). 
+I received M.Phil. from the Department of Chemical Engineering and Biotechnology at University of Cambridge (2021), and B.Eng. from the Department of Chemical and Environmental Engineering at University of Nottingham (2020). 
 
-**I am actively seeking opportunities for internships and research collaborations.** If you are looking for a passionate and productive intern or collaborator, please don't hesitate to reach out.
+**I am actively seeking opportunities for internships and research collaborations**.
 
 # Research interests
-My research interests are broadly in the interface between machine learning and optimization. 
-Recent works focus on how to extend neural network towards optimization problem and how to explain optimization models using LLM.
+My research interests lie broadly at the interface between machine learning and optimization, with a focus on accelerating hard decision-making problems, improving explainability of optimization models, and preserving feasibility in deep learning models. Current work follows three connected directions.
+
+## Learning to Optimize
+Many industrial decision-making problems can be formulated as combinatorial optimization problems, yet solving them to global optimality remains computationally challenging. My research develops learning-based approaches to accelerate the branch-and-bound methods without sacrificing correctness guarantees.
+
+**Related publication:** [Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks](https://arxiv.org/abs/2605.07113)
+
+## LLMs for Optimization
+Optimization models are often developed by experts but used by domain practitioners who need to understand formulations, diagnose infeasibility, and evaluate possible model changes. This direction proposes LLM-based systems that connect optimization models, solvers, and users through natural language. 
+
+**Related publications:** [OptiChat: Bridging Optimization Models and Practitioners with Large Language Models](https://pubsonline.informs.org/doi/abs/10.1287/ijds.2025.0074); [Diagnosing Infeasible Optimization Problems Using Large Language Models](https://www.tandfonline.com/doi/abs/10.1080/03155986.2024.2385189)
+
+## Deep Learning Models with Hard Constraints
+Deep learning models are widely used in science and engineering as surrogates, but their predictions may violate physical laws, domain knowledge and operational requirements. This work explores neural architectures to enforce input-dependent hard constraints with minimal computational overhead. 
+
+**Related publications:** [Enforcing Hard Linear Constraints in Deep Learning Models with Decision Rules](https://arxiv.org/html/2505.13858v1); [Physics-informed neural networks with hard linear equality constraints](https://www.sciencedirect.com/science/article/abs/pii/S0098135424001820)
+
+
 
 <!-- Getting started
 ======
